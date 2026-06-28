@@ -1,4 +1,4 @@
-# devpilot-ai# DevPilot AI Enterprise
+# DevPilot AI Enterprise
 
 🚀 AI-powered Autonomous Software Engineering Platform
 
